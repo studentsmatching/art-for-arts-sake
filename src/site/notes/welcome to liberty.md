@@ -6,10 +6,7 @@ welcome to liberty
 ---
 
 this is the first note of my digital garden, called liberty
-please don't mind, it's really hard for me to make it all work. i think i managed though
-
-obsidian://open?vault=Obsidian%20Vault&file=times%20like%20these%20-%20addison%20rae 
-
+please don't mind, it's really hard for me to make it all work. i think i managed though 
 
 #prettysongs
 #thoughts

@@ -8,5 +8,8 @@ welcome to liberty
 this is the first note of my digital garden, called liberty
 please don't mind, it's really hard for me to make it all work. i think i managed though 
 
+[[pretty songs/times like these - addison rae\|times like these - addison rae]]
+[[pretty songs/sports car - tate mcrae\|sports car - tate mcrae]]
+
 #prettysongs
 #thoughts
